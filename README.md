@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm Sreya, a 1st Year B.Tech student specializing in Software Product Engineering. A curious developer and student who loves bringing ideas to life through code.  
-
+I'm Sreya, a 1st Year B.Tech student specializing in Software Product Engineering.A curious developer and student who loves bringing ideas to life through code.  
 
 ---
 
@@ -10,19 +9,17 @@ I'm Sreya, a 1st Year B.Tech student specializing in Software Product Engineerin
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sreyasiv&theme=react&hide_border=true&include_all_commits=false&count_private=false" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Sreyasiv&theme=react&hide_border=true" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Sreyasiv&theme=react&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyasiv&layout=compact&theme=react&hide_border=true" />
     </td>
   </tr>
 </table>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyasiv&theme=react&hide_border=true&layout=compact" />
 
 ---
+
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -44,11 +41,11 @@ I'm Sreya, a 1st Year B.Tech student specializing in Software Product Engineerin
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ---
-
-## 🌐 Socials:
+## 🚀 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreya-sivakumar-84b853319/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreya.s.s75@kalvium.community)
+[![LeetCode: Sreya](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/sreyasiv_911)](https://leetcode.com/sreyasiv_911)
 
 ---
 
