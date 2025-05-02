@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-"I'm Sreya, a 1st-year B.Tech student in Software Product Engineering. I'm passionate about coding and love bringing ideas to life."
+I'm Sreya, a 1st-year B.Tech student in Software Product Engineering. I'm passionate about coding and love bringing ideas to life.
 
 ---
 
