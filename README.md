@@ -48,7 +48,7 @@ I'm Sreya, a 2nd-year B.Tech student in Software Product Engineering. I'm passio
 
 
 ---
-## 🚀 Connect with me:
+## 🚀 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreya-sivakumar-84b853319/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreya.s.s75@kalvium.community)
