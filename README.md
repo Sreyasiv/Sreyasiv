@@ -1,61 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-I'm Sreya, a 2nd-year B.Tech student in Software Product Engineering. I'm passionate about coding and love bringing ideas to life.
+```
+███████╗██████╗ ███████╗██╗   ██╗ █████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝██╔══██╗
+███████╗██████╔╝█████╗   ╚████╔╝ ███████║
+╚════██║██╔══██╗██╔══╝    ╚██╔╝  ██╔══██║
+███████║██║  ██║███████╗   ██║   ██║  ██║
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
+```
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Associate+SWE+Intern+%40+Lowe%27s+India;AI+%2B+Full+Stack+Engineer;Building+things+that+actually+work.)](https://git.io/typing-svg)
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Sreyasiv&theme=react&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyasiv&layout=compact&theme=react&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
+</div>
 
 ---
 
-## 💻 Tech Stack:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Mistral](https://img.shields.io/badge/LLM-Mistral-%23FF6F20.svg?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazonaws&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
+```bash
+$ whoami
+> Sreya Sivakumar
+> B.Tech CSE · Kalvium @ Vels Institute · Chennai · Class of 2028
 
-
----
-## 🚀 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreya-sivakumar-84b853319/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreya.s.s75@kalvium.community)
-[![LeetCode: Sreya](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/sreyasiv_911)](https://leetcode.com/sreyasiv_911)
+$ cat current_mission.txt
+> Interning @ Lowe's  as an Associate Software Engineer
+> Previously: AI/Full Stack Intern @ KalviumLabs
+```
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Sreyasiv&icon=0&color=0)](https://visitcount.itsvg.in)
+### `~/stats`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sreyasiv&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=ffffff" height="160"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sreyasiv&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="160"/>
+
+</div>
+
+---
+
+
+<div align="center">
+
+*"The best code is the kind that surprises you with how well it works."*
+
+</div>
