@@ -32,7 +32,8 @@ $ cat current_mission.txt
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sreyasiv&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=ffffff" height="160"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sreyasiv&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreyasiv&theme=dark&hide_border=true&background=0D0D0D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&stroke=39FF14&sideLabels=ffffff&dates=ffffff&sideNums=ffffff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyasiv&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=ffffff" height="160"/>
 
 </div>
 
