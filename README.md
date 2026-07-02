@@ -9,7 +9,7 @@
 ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Associate+SWE+Intern+%40+Lowe%27s+India;AI+%2B+Full+Stack+Engineer;Building+things+that+actually+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Associate+SWE+Intern+%40+Lowe%27s+India;AI+%2B+Full+Stack+Engineer;Building+things+that+actually+scale.)](https://git.io/typing-svg)
 
 </div>
 
