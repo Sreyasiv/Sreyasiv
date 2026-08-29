@@ -21,8 +21,8 @@ $ whoami
 > B.Tech CSE · Kalvium @ Vels Institute · Chennai · Class of 2028
 
 $ cat current_mission.txt
-> Interning @ Lowes  as an Associate Software Engineer
-> Previously: AI/Full Stack Intern @ KalviumLabs
+> Interning "@ Lowe's"  as an "Associate Software Engineer Intern"
+> Previously: "AI/Full Stack Intern" @ "KalviumLabs"
 ```
 
 ---
@@ -35,11 +35,11 @@ $ cat current_mission.txt
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreyasiv&theme=dark&hide_border=true&background=0D0D0D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&stroke=39FF14&sideLabels=ffffff&dates=ffffff&sideNums=ffffff" height="160"/>
 
 </div>
----
+
 
 
 <div align="center">
 
-*"The best code is the kind that surprises you with how well it works."*
+*Tee-Hee*
 
 </div>
