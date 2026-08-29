@@ -21,7 +21,7 @@ $ whoami
 > B.Tech CSE · Kalvium @ Vels Institute · Chennai · Class of 2028
 
 $ cat current_mission.txt
-> Interning @ Lowe's  as an Associate Software Engineer
+> Interning @ Lowes  as an Associate Software Engineer
 > Previously: AI/Full Stack Intern @ KalviumLabs
 ```
 
